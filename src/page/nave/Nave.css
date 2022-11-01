@@ -1,0 +1,23 @@
+.mm {
+    width: 113px;
+    border-radius: 50%;
+    height: 105px;
+    position: relative;
+    left: 193px;
+    top: 9px;
+
+}
+
+.nav-item {
+    position: relative;
+    left: 26%;
+    top: 22px;
+    margin: 14px;
+}
+
+.asas {
+    position: fixed;
+    background-color: gainsboro;
+    height: 121px;
+    z-index: 1;
+}

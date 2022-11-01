@@ -1,0 +1,26 @@
+.vid {
+    width: 50%;
+    position: relative;
+    left: 29%;
+}
+
+
+.vid video {
+    width: 70vw;
+    height: 100vh;
+}
+
+.textt {
+    position: relative;
+    left: -201px;
+    top: -365px;
+    width: 406px;
+    height: 1px;
+    font-size: 34px;
+    font-family: cursive;
+}
+
+.textt:hover {
+    color: #0a58ca;
+    text-shadow: 2px 1px;
+}
